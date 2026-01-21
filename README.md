@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Henco Volschenk! 👋
 
-<!--
-**HencoV/HencoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Systems Developer | Linux Enthusiast | NQF 5 Certified 🎓
 
-Here are some ideas to get you started:
+I am a **Systems Development graduate** passionate about bridging the gap between code and infrastructure. I don't just write scripts; I deploy them to live Linux environments and keep them running.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently based in South Africa and looking for opportunities in **Support Engineering**, **DevOps**, or **Junior Development**.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, C#, Bash Scripting |
+| **Hosting** | DigitalOcean (Ubuntu 24.04), Linux VPS Administration |
+| **Tools** | Git, SSH, VS Code, Systemd |
+| **Currently Learning** | Docker & Cloud Deployment (AWS/Azure) |
+
+---
+
+### 🚀 Featured Project: Python Discord Application
+A custom, high-performance bot deployed on a live Linux server.
+* **The Code:** Built with Python (`discord.py`) and API integrations.
+* **The Backend:** Integrated **Wavelink** and **Lavalink** nodes to handle real-time audio streaming via websockets.
+* **The Deployment:** Hosted 24/7 on a DigitalOcean Droplet, managed via SSH and `screen`.
+* **[View the Code Repository →](LINK_TO_YOUR_BOT_REPO_HERE)**
+
+---
+
+### 📊 Github Stats
+![Henco's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me
+* [**LinkedIn Profile**](YOUR_LINKEDIN_URL_HERE)
+* [**Email Me**](mailto:hencovol@gmail.com)
