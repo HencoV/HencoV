@@ -24,7 +24,7 @@ A custom, high-performance bot deployed on a live Linux server.
 * **The Code:** Built with Python (`discord.py`) and API integrations.
 * **The Backend:** Integrated **Wavelink** and **Lavalink** nodes to handle real-time audio streaming via websockets.
 * **The Deployment:** Hosted 24/7 on a DigitalOcean Droplet, managed via SSH and `screen`.
-* **[View the Code Repository →](LINK_TO_YOUR_BOT_REPO_HERE)**
+* **[View the Code Repository →](https://github.com/HencoV/discord_bot)**
 
 ---
 
