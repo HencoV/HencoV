@@ -29,10 +29,10 @@ A custom, high-performance bot deployed on a live Linux server.
 ---
 
 ### 📊 Github Stats
-![Henco's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Henco's GitHub stats](https://github-readme-stats.vercel.app/api?username=HencoV&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with me
-* [**LinkedIn Profile**](YOUR_LINKEDIN_URL_HERE)
+* [**LinkedIn Profile**](https://www.linkedin.com/in/henco-volschenk)
 * [**Email Me**](mailto:hencovol@gmail.com)
